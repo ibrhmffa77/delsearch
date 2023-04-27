@@ -1,0 +1,11 @@
+const addBtn = document.getElementById("addBtn")
+const companyNameInp = document.getElementById("companyName")
+const contactNameInp = document.getElementById("contactName")
+const contactTitleInp = document.getElementById("contactTitle")
+const searchInp = document.getElementById("search")
+const editInp1 = document.getElementById("editInput1")
+const editInp2 = document.getElementById("editInput2")
+const editInp3 = document.getElementById("editInput3")
+
+const editSaveBtn = document.getElementById("editSaveBtn")
+const items = document.getElementById("items")
